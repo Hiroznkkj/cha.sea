@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>sea lindo para um kr🧄</h1>
+    return <h1>mas o que é que eu vou fazer com um site?</h1>
 
 }
 
