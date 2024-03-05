@@ -1,6 +1,9 @@
 function Home() {
-    return <h1>mas o que é que eu vou fazer com um site?</h1>
+    return <html> 
+        <h1 class>você é desprovido de macheza meu caro.</h1> 
+ 
+    </html>
 
 }
 
-export default Home;
+export default Home;git 
